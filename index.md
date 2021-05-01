@@ -1,12 +1,15 @@
-## Welcome to GitHub Pages
+## My Portfolio
 
-You can use the [editor on GitHub](https://github.com/versolollo/versolollo/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Hello everyone! This brand new site contains a not exhaustive list of the things I have been doing, particularly with computers and hardware.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Computing
+I started coding in Python in highschool with the purpose of creating a "bass harmoniser" which had to find the right musical chords over a bass line. I then continued during University, and here are somme of the projects I worked on:
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- **Thermal Simulation:** a thermal simulation which solves the 2D steady-state heat equation to find the temperature map in a microprocessor. I implemented Newton's method to solve the heat equation.
+- **Oslo model**
+
 
 ```markdown
 Syntax highlighted code block
