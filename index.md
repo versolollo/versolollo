@@ -1,4 +1,4 @@
-## My Portfolio
+## My Portfolio (Work in Progress)
 
 Hello everyone! This brand new site contains a not exhaustive list of the things I have been doing, particularly with computers and hardware.
 
