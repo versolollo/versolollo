@@ -1,3 +1,12 @@
+---
+header:
+  actions:
+    - label: "News"
+      url: "/news/index.html"
+    - label: "Contact"
+      url: "/contact/index.html"
+---
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/versolollo/versolollo/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
