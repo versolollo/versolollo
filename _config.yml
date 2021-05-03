@@ -1,7 +1,1 @@
 theme: jekyll-theme-midnight
-header:
-  actions:
-    - label: "About"
-      url: "/about.html"
-    - label: "My GitHub"
-      url: "www.google.com"
