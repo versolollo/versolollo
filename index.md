@@ -7,3 +7,7 @@ I started coding in Python in highschool with the purpose of creating a "bass ha
 
 - **Thermal Simulation:** a thermal simulation which solves the 2D steady-state heat equation to find the temperature map in a microprocessor. I implemented Newton's method to solve the heat equation. The project was part of my Computational Physics module at University;
 - **Oslo model:** I investigated the Oslo Model, which displays _Self Organised Criticality (SOC)_ as part of the Complexity & Networks module;
+
+------
+
+$$2^4$$
