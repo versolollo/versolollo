@@ -21,4 +21,4 @@ I started coding in Python in highschool with the purpose of creating a "bass ha
 
 _____
 Let's see if LaTeX is supported
-$$3x^7 = 3$$
+$$3x^7 = 3$$ hello world
