@@ -11,4 +11,4 @@ The errata (e.g. corrections of the lab report) will be uploaded soon.
 
 
 
-[1]:{{ site.url }}/downloads/microprocessor_thermal.pdf
+[1]: downloads/microprocessor_thermal.pdf
