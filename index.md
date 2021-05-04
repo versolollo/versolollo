@@ -9,4 +9,4 @@ I started coding in Python in highschool with the purpose of creating a "bass ha
 - **Oslo model:** I investigated the Oslo Model, which displays _Self Organised Criticality (SOC)_ as part of the Complexity & Networks module;
 
 ------
-[1]: projects/thermal_simulation.html
+[1]: {{ site.baseurl }}/projects/thermal_simulation.html
