@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @versolollo
 - 👀 I’m interested in Physics, Machine Learning, music and basically everything which is cool. Drop me a message on lovergm@icloud.com if you want to get in touch!
+- Don't forget to check my website at https://versolollo.github.io/ !
 
 ## Projects I have been working on:
 
