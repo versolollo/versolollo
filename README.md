@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @versolollo
-- 👀 I’m interested in Physics, Machine Learning, music and basically everything which is cool.
+- I am currently doing a PhD in Ion Trap Quantum Computing at the University of Oxford.
 - Don't forget to check my website at https://versolollo.github.io/ !
 
 <!---
